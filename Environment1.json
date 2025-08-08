@@ -1,0 +1,39 @@
+{
+	"id": "dcc70d58-88a6-4bb0-b675-1851b35906df",
+	"name": "New Environment",
+	"values": [
+		{
+			"key": "base_url",
+			"value": "https://api.sellinademo.io",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "Bearer FN6Zez7SY525f7ZykwbHuAPMDsA4YV9kno7RKvjfdfWqia4Ln5",
+			"type": "secret",
+			"enabled": true
+		},
+		{
+			"key": "content",
+			"value": "application/json",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "Year",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "previousMonthAbbr",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2025-08-05T15:59:25.449Z",
+	"_postman_exported_using": "Postman/11.57.1"
+}

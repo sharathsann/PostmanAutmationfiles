@@ -1,0 +1,1 @@
+newman run "C:\\Users\\user\\Documents\\PostmanAutomation\\Unnati_Api_Teting1.json" -e "C:\\Users\\user\\Documents\\PostmanAutomation\\Environment1.json" --reporters=cli,htmlextra
